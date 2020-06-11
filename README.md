@@ -20,8 +20,10 @@ TO INSTALL KALI LINUX TOOLS ON UBUNTU<br>
   
 FOR REPORTING ANY ISSUES<br>
     <i>kaungkaung.kkzx@gmail.com</i><br>
-    <br>
-    https://web.facebook.com/kaung.k.zaw.921025<br>
+    <p>FACEBOOK</p>
+    <i>https://web.facebook.com/kaung.k.zaw.921025</i><br>
+    <p>TWITTER</p>
+    <i>https://twitter.com/AszonSmith</i>
     
   
 </html>

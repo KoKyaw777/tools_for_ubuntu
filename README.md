@@ -15,6 +15,7 @@
   (after running aszon.py, You can Chose The Category.)
   
   <image src="https://user-images.githubusercontent.com/66734606/84339637-88b9fd80-aba7-11ea-9053-ef30b961950d.png">
+  <h3>Tested On <br>Ubuntu 20.04LTS <br>Kali Linux 2020.2</h3>
   
   
 FOR REPORTING ANY ISSUES<br>

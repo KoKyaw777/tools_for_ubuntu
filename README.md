@@ -10,8 +10,8 @@ TO INSTALL KALI LINUX TOOLS ON UBUNTU<br>
   git<br>
 <br>
 <h3>USAGE</h3><br>
- <br> chmod +x aszon.py<br>
-  <br>(Need ROOT PERMISSION)<br>
+  chmod +x aszon.py<br>
+ (Need ROOT PERMISSION)<br>
   sudo python3 aszon.py<br>
   (after running aszon.py, You can Chose The Category.)
   

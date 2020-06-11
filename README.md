@@ -8,6 +8,7 @@
   git<br>
 <br>
 <h3>USAGE</h3><br>
+  <p>git clone https://github.com/kaung-khant-zaw223/tools_for_ubuntu.git</p><br>
   chmod +x aszon.py<br>
  (Need ROOT PERMISSION)<br>
   sudo python3 aszon.py<br>

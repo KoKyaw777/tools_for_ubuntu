@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html>
   <h3># tools_for_ubuntu_
-TO INSTALL KALI LINUX TOOLS ON UBUNTU<br>
-    OTHER TOOLS FOR OTHER LINUX</h3><br>
+TO INSTALL KALI LINUX TOOLS ON UBUNTU OTHER TOOLS FOR OTHER LINUX</h3><br>
 <br>
-
 <h3>PRE-REQUESTIES</h3><br>
   python3 <br>
   git<br>

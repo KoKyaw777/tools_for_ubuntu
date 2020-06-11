@@ -1,0 +1,2 @@
+# tools_for_ubuntu
+TO INSTALL KALI LINUX TOOLS ON UBUNTU
